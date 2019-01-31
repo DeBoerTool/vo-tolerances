@@ -1,9 +1,9 @@
-A value object for a tolerance with precision and unit.
+A value object for an upper and lower tolerance pair.
 
 ## Installation
 
 ```bash
-npm install @deboertool/vo-tolerance
+npm install @deboertool/vo-tolerances
 ```
 
 ## Testing
