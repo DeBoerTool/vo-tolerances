@@ -14,5 +14,4 @@ describe('Empty Tolerances', () => {
     expect(vo.toString()).to.equal('')
     expect(vo.value()).to.equal('')
   })
-
 })
