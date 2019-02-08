@@ -1,6 +1,6 @@
 {
   "name": "@deboertool/vo-tolerances",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A value object for a pair (upper, lower) of tolerances",
   "main": "index.ts",
   "scripts": {
